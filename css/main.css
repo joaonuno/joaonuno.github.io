@@ -1,0 +1,28 @@
+html {
+	height: 100%;
+	font-family: Helvetica;
+}
+
+body {
+	background-color: #f6f6f6;
+	height: 100%;
+}
+
+body > div {
+	background-color: #ffffff;
+	margin: auto;
+	width: 500px;
+	box-shadow: 1px 1px 5px 5px #e1e1e1;
+	padding: 50px 20px;
+	box-sizing: border-box;
+}
+
+img.me {
+	padding: 5px;
+	border: 1px solid #e1e1e1;
+	box-shadow: 1px 1px 2px #e1e1e1;
+}
+
+a img {
+	margin-right: 5px;
+}
