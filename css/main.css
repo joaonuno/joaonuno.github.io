@@ -9,12 +9,9 @@ body {
 }
 
 body > div {
-	background-color: #ffffff;
 	margin: auto;
-	width: 500px;
-	box-shadow: 1px 1px 5px 5px #e1e1e1;
-	padding: 50px 20px;
-	box-sizing: border-box;
+	margin-top: 170px;
+	width: 450px;
 }
 
 img.me {
